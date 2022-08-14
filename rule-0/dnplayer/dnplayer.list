@@ -1,3 +1,6 @@
 PROCESS-NAME,dnplayer.exe
 PROCESS-NAME,dnmultiplayer.exe
 PROCESS-NAME,dnconsole.exe
+PROCESS-NAME,LdVBoxHeadless.exe
+PROCESS-NAME,LdVBoxSVC.exe
+PROCESS-NAME,Ld2VirtualBox.exe
