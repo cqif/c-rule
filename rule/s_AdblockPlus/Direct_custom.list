@@ -1,8 +1,9 @@
 DOMAIN,transfer.ipcf.tk
 DOMAIN,origin.ipcf.tk
 DOMAIN,cdn.bootloader.cf
+DOMAIN,cloudflare.quest
+DOMAIN-SUFFIX,cloudflare.quest
 DOMAIN-SUFFIX,tehcneko.xyz
 DOMAIN-SUFFIX,napsternetv.com
 DOMAIN-SUFFIX,20ll.ml
 DOMAIN-SUFFIX,oppo.quest
-DOMAIN-SUFFIX,cloudflare.quest
