@@ -1,0 +1,9 @@
+# Pandora
+USER-AGENT,Pandora*
+DOMAIN-SUFFIX,pandora.com
+DOMAIN-SUFFIX,p-cdn.us
+# TextNow
+DOMAIN,textnow.com
+DOMAIN,textnow.me
+DOMAIN-SUFFIX,textnow.com
+DOMAIN-SUFFIX,textnow.me
