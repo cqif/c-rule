@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,cloudflare.quest
 DOMAIN-SUFFIX,oppo.quest
 DOMAIN-SUFFIX,tehcneko.xyz
 DOMAIN-SUFFIX,napsternetv.com
-DOMAIN-SUFFIX,20ll.ml
+DOMAIN,c.17.gay
 #
 #HongKong-PCCW
 IP-CIDR,219.76.13.177/32,no-resolve
@@ -24,3 +24,6 @@ IP-CIDR,219.76.13.177/32,no-resolve
 IP-CIDR,47.57.7.183/32,no-resolve
 #HongKong-GoogleCloud
 IP-CIDR,34.92.10.35/32,no-resolve
+#
+# CN Domain
+DOMAIN-SUFFIX,gwdz.com
