@@ -1,0 +1,7 @@
+# The specified download domain name
+DOMAIN,objects.githubusercontent.com
+DOMAIN,codeload.github.com
+DOMAIN,mediafiles.forgecdn.net
+DOMAIN,mega.nz
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,dl.dropboxusercontent.com
