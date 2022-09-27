@@ -26,6 +26,8 @@ IP-CIDR,219.76.13.177/32,no-resolve
 IP-CIDR,47.57.7.183/32,no-resolve
 #HongKong-GoogleCloud
 IP-CIDR,34.92.10.35/32,no-resolve
+#Macao-ctm.net
+IP-CIDR,45.64.22.37/32,no-resolve
 #
 # CN Domain
 DOMAIN-SUFFIX,gwdz.com
