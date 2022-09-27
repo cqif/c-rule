@@ -1,0 +1,44 @@
+#
+# incomplete(x) not fully perfected(√)
+#
+# Microsoft Account / Auth
+DOMAIN,account.microsoft.com
+DOMAIN,login.live.com
+DOMAIN-SUFFIX,msauth.net
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,live.net
+DOMAIN-SUFFIX,storage.msn.com
+DOMAIN-SUFFIX,onedrive.live.com
+DOMAIN-SUFFIX,photos.live.com
+DOMAIN-SUFFIX,storage.live.com
+DOMAIN-SUFFIX,msftauth.net
+DOMAIN-SUFFIX,outlook.com
+DOMAIN-SUFFIX,skype.com
+DOMAIN-SUFFIX,skype.net
+DOMAIN-SUFFIX,skypeforbusiness.com
+DOMAIN-SUFFIX,uservoice.com
+DOMAIN-SUFFIX,cloudapp.net
+DOMAIN-SUFFIX,cloudappsecurity.com
+DOMAIN-SUFFIX,xboxlive.com
+DOMAIN-SUFFIX,microsoft365.com
+DOMAIN-SUFFIX,developer.microsoft.com
+DOMAIN,login.microsoft.com
+DOMAIN,login.microsoftonline.com
+# Microsoft Edge
+DOMAIN,edge.activity.windows.com
+DOMAIN,edge.microsoft.com
+DOMAIN,iecvlist.microsoft.com
+# Microsoft Bing
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bing.com.cn
+DOMAIN-SUFFIX,bing.net
+# Microsoft Azure
+DOMAIN,portal.azure.com
+DOMAIN-SUFFIX,azure.com
+DOMAIN-SUFFIX,azure.net
+DOMAIN-SUFFIX,azureedge.net
+# Mojang
+DOMAIN-SUFFIX,callersbane.com
+DOMAIN-SUFFIX,minecraft.net
+DOMAIN-SUFFIX,minecraftshop.com
+DOMAIN-SUFFIX,mojang.com
