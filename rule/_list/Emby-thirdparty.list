@@ -1,5 +1,6 @@
 #DOMAIN-KEYWORD,emby
-#DOMAIN-SUFFIX,movie.kg
+DOMAIN,danmaku.movie.kg
+DOMAIN,movie.kg
 DOMAIN-SUFFIX,misakaf.org
 DOMAIN-SUFFIX,poloemby.xyz
 DOMAIN-SUFFIX,jmsooo.co
@@ -7,6 +8,5 @@ DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,52.al
 DOMAIN,aaa.ax
 DOMAIN,4545.cf
-DOMAIN,danmaku.movie.kg
 DST-PORT,8096
 SRC-PORT,8096
