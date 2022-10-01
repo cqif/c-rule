@@ -1,4 +1,5 @@
 # The specified download domain name
+DOMAIN-SUFFIX,workers.dev
 DOMAIN,objects.githubusercontent.com
 DOMAIN,codeload.github.com
 DOMAIN,mediafiles.forgecdn.net
