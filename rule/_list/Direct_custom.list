@@ -5,14 +5,11 @@ DOMAIN,origin.ipcf.tk
 DOMAIN,fbi.gov
 DOMAIN,www.fbi.gov
 DOMAIN,www.gov.hk
-DOMAIN,thaigov.go.th
-DOMAIN,www.thaigov.go.th
-#DOMAIN,www.gco.gov.qa
-#DOMAIN,www.gov.ua
 DOMAIN,digitalocean.com
 DOMAIN,www.digitalocean.com
-DOMAIN,shopify.com
-DOMAIN,www.shopify.com
+#DOMAIN,thaigov.go.th
+#DOMAIN,www.gco.gov.qa
+#DOMAIN,www.gov.ua
 DOMAIN,cloudflare.quest
 DOMAIN-SUFFIX,cloudflare.quest
 DOMAIN-SUFFIX,oppo.quest
