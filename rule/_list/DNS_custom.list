@@ -4,7 +4,6 @@ DOMAIN,8.8.4.4
 DOMAIN,2001:4860:4860::8888
 DOMAIN,2001:4860:4860::8844
 DOMAIN,dns.google
-DOMAIN,dns.google.com
 DOMAIN,public.dns.iij.jp
 DOMAIN,doh.opendns.com
 DOMAIN,dns.quad9.net
