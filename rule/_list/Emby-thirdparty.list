@@ -2,11 +2,14 @@
 DOMAIN,danmaku.movie.kg
 DOMAIN,movie.kg
 DOMAIN,dynamic.longin.us
+DOMAIN,bgm.movie.kg
+DOMAIN,lain.bgm.tv
 DOMAIN-SUFFIX,misakaf.org
 DOMAIN-SUFFIX,poloemby.xyz
 DOMAIN-SUFFIX,jmsooo.co
 DOMAIN-SUFFIX,emby.wtf
-DOMAIN-SUFFIX,52.al
+#DOMAIN-SUFFIX,52.al
+DOMAIN,embytv.cf
 DOMAIN,aaa.ax
 DOMAIN,4545.cf
 DST-PORT,8096
