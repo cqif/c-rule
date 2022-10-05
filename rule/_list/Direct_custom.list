@@ -14,6 +14,8 @@ DOMAIN,cloudflare.quest
 DOMAIN-SUFFIX,cloudflare.quest
 DOMAIN-SUFFIX,oppo.quest
 DOMAIN-SUFFIX,yingyuan.gq
+#	NekoX
+DOMAIN-SUFFIX,tehcneko.xyz
 #  CN Domain
 DOMAIN-SUFFIX,gwdz.com
 #
