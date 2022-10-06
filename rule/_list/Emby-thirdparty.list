@@ -1,9 +1,10 @@
 #DOMAIN-KEYWORD,emby
-DOMAIN,danmaku.movie.kg
-DOMAIN,movie.kg
+#DOMAIN,danmaku.movie.kg
+#DOMAIN,bgm.movie.kg
 DOMAIN,dynamic.longin.us
-DOMAIN,bgm.movie.kg
 DOMAIN,lain.bgm.tv
+DOMAIN,movie.kg
+DOMAIN-SUFFIX,movie.kg
 DOMAIN-SUFFIX,misakaf.org
 DOMAIN-SUFFIX,poloemby.xyz
 DOMAIN-SUFFIX,jmsooo.co
