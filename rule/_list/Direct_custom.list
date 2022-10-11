@@ -7,9 +7,11 @@ DOMAIN,www.fbi.gov
 DOMAIN,www.gov.hk
 DOMAIN,digitalocean.com
 DOMAIN,www.digitalocean.com
+DOMAIN,shopify.com
+DOMAIN,www.shopify.com
 #DOMAIN,thaigov.go.th
-#DOMAIN,www.gco.gov.qa
 #DOMAIN,www.gov.ua
+#DOMAIN,www.gco.gov.qa
 DOMAIN,cloudflare.quest
 DOMAIN-SUFFIX,cloudflare.quest
 DOMAIN-SUFFIX,oppo.quest
@@ -24,10 +26,21 @@ DOMAIN-SUFFIX,gitvpn.eu.org
 DOMAIN-SUFFIX,vpnpools.eu.org
 DOMAIN-SUFFIX,freev2r.xyz
 #
+# CN Domain
+DOMAIN-SUFFIX,gwdz.com
+# Company Domain
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,gcore.com
+DOMAIN-SUFFIX,cloudns.net
 #	NekoX
 DOMAIN-SUFFIX,tehcneko.xyz
-#  CN Domain
-DOMAIN-SUFFIX,gwdz.com
+#
+# Subscription conversion api direct connection
+DOMAIN,api.d1.mk
+DOMAIN,api.v1.mk
+DOMAIN,d1.mk
+DOMAIN,v1.mk
+DOMAIN-SUFFIX,17.gay
 #
 # HongKong-PCCW
 IP-CIDR,219.76.13.177/32,no-resolve
@@ -37,10 +50,3 @@ IP-CIDR,47.57.7.183/32,no-resolve
 IP-CIDR,34.92.10.35/32,no-resolve
 # Macao-ctm.net
 IP-CIDR,45.64.22.37/32,no-resolve
-#
-#  Subscription conversion api direct connection
-DOMAIN,api.d1.mk
-DOMAIN,api.v1.mk
-DOMAIN,d1.mk
-DOMAIN,v1.mk
-DOMAIN-SUFFIX,17.gay
