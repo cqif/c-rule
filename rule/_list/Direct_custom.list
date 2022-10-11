@@ -31,6 +31,7 @@ DOMAIN-SUFFIX,gwdz.com
 # Company Domain
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,gcore.com
+DOMAIN-SUFFIX,gcorelabs.com
 DOMAIN-SUFFIX,cloudns.net
 #	NekoX
 DOMAIN-SUFFIX,tehcneko.xyz
