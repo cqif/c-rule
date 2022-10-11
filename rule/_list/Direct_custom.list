@@ -33,7 +33,7 @@ DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,gcore.com
 DOMAIN-SUFFIX,gcorelabs.com
 DOMAIN-SUFFIX,cloudns.net
-#	NekoX
+# NekoX
 DOMAIN-SUFFIX,tehcneko.xyz
 #
 # Subscription conversion api direct connection
