@@ -24,7 +24,3 @@ SRC-PORT,5229-8079
 SRC-PORT,8082-8442
 SRC-PORT,8444-8879
 SRC-PORT,8881-65535
-#
-# ruleset=🚪 不常用端口,https://raw.githubusercontent.com/cqif/c-rule/master/rule/_list/UncommonPort_custom_Lite.list
-# 绕过自定不常用端口
-# ruleset=🎯 国内流量,https://raw.githubusercontent.com/cqif/c-rule/master/rule/_list/UncommonPort_custom_Lite.list
