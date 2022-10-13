@@ -29,10 +29,10 @@ DOMAIN-SUFFIX,freev2r.xyz
 # CN Domain
 DOMAIN-SUFFIX,gwdz.com
 # Company Domain
-DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,gcore.com
-DOMAIN-SUFFIX,gcorelabs.com
-DOMAIN-SUFFIX,cloudns.net
+#DOMAIN-SUFFIX,cloudflare.com
+#DOMAIN-SUFFIX,gcore.com
+#DOMAIN-SUFFIX,gcorelabs.com
+#DOMAIN-SUFFIX,cloudns.net
 # NekoX
 DOMAIN-SUFFIX,tehcneko.xyz
 #
