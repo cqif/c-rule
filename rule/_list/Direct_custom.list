@@ -35,6 +35,8 @@ DOMAIN-SUFFIX,cloudflare.com
 #DOMAIN-SUFFIX,cloudns.net
 # NekoX
 DOMAIN-SUFFIX,tehcneko.xyz
+# MTC's TgP
+DOMAIN-SUFFIX,mykeyvans.science
 #
 # Subscription conversion api direct connection
 DOMAIN,api.d1.mk
