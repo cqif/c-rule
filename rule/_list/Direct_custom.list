@@ -6,6 +6,7 @@ DOMAIN,origin.ipcf.tk
 DOMAIN,official.5566556.xyz
 DOMAIN,cf.cnmqq.tk
 DOMAIN,cloudflare.quest
+DOMAIN,cfhk.oppo.quest
 DOMAIN-SUFFIX,cloudflare.quest
 DOMAIN-SUFFIX,oppo.quest
 #
@@ -23,9 +24,9 @@ DOMAIN-SUFFIX,freev2r.xyz
 DOMAIN-SUFFIX,gwdz.com
 # Company Domain
 DOMAIN-SUFFIX,cloudflare.com
-#DOMAIN-SUFFIX,gcore.com
-#DOMAIN-SUFFIX,gcorelabs.com
-#DOMAIN-SUFFIX,cloudns.net
+DOMAIN-SUFFIX,gcore.com
+DOMAIN-SUFFIX,gcorelabs.com
+DOMAIN-SUFFIX,cloudns.net
 # NekoX
 DOMAIN-SUFFIX,tehcneko.xyz
 # MTC's TgP
