@@ -1,0 +1,8 @@
+# Minecraft thirdparty servers
+#DST-PORT,25565
+#SRC-PORT,25565
+DOMAIN-SUFFIX,hieda.cc
+DOMAIN-SUFFIX,lankodata.com
+DOMAIN-SUFFIX,foreactos.club
+DOMAIN-SUFFIX,craft.moe
+DOMAIN-SUFFIX,nyaa.cat
