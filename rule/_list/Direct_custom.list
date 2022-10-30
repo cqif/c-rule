@@ -27,6 +27,8 @@ DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,gcore.com
 DOMAIN-SUFFIX,gcorelabs.com
 DOMAIN-SUFFIX,cloudns.net
+DOMAIN,time.is
+DOMAIN,currency.world
 # NekoX
 DOMAIN-SUFFIX,tehcneko.xyz
 # MTC's TgP
