@@ -1,25 +1,6 @@
-# Proxy Bypass
-DOMAIN,transfer.ipcf.tk
-DOMAIN,unofficial.5566556.xyz
-DOMAIN,cdn.bootloader.cf
-DOMAIN,origin.ipcf.tk
-DOMAIN,official.5566556.xyz
-DOMAIN,cf.cnmqq.tk
-DOMAIN,cloudflare.quest
-DOMAIN,cfhk.oppo.quest
-DOMAIN-SUFFIX,cloudflare.quest
-DOMAIN-SUFFIX,oppo.quest
 #
-DOMAIN-SUFFIX,godseven.xyz
-DOMAIN-SUFFIX,shenseven.xyz
-DOMAIN-SUFFIX,i809.ml
-DOMAIN-SUFFIX,s7.gay
-DOMAIN-SUFFIX,cfzf.xyz
-DOMAIN-SUFFIX,isi.gay
-DOMAIN-SUFFIX,gitvpn.eu.org
-DOMAIN-SUFFIX,vpnpools.eu.org
-DOMAIN-SUFFIX,freev2r.xyz
-#
+# Outlook E-mail IMAP
+DOMAIN:imap-mail.outlook.com
 # CN Domain
 DOMAIN-SUFFIX,gwdz.com
 # Company Domain
@@ -41,3 +22,24 @@ DOMAIN,d1.mk
 DOMAIN,v1.mk
 DOMAIN-SUFFIX,17.gay
 #
+# Proxy Bypass
+DOMAIN,transfer.ipcf.tk
+DOMAIN,unofficial.5566556.xyz
+DOMAIN,cdn.bootloader.cf
+DOMAIN,origin.ipcf.tk
+DOMAIN,official.5566556.xyz
+DOMAIN,cf.cnmqq.tk
+DOMAIN,cloudflare.quest
+DOMAIN,cfhk.oppo.quest
+DOMAIN-SUFFIX,cloudflare.quest
+DOMAIN-SUFFIX,oppo.quest
+#
+DOMAIN-SUFFIX,godseven.xyz
+DOMAIN-SUFFIX,shenseven.xyz
+DOMAIN-SUFFIX,i809.ml
+DOMAIN-SUFFIX,s7.gay
+DOMAIN-SUFFIX,cfzf.xyz
+DOMAIN-SUFFIX,isi.gay
+DOMAIN-SUFFIX,gitvpn.eu.org
+DOMAIN-SUFFIX,vpnpools.eu.org
+DOMAIN-SUFFIX,freev2r.xyz
