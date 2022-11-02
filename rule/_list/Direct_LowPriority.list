@@ -1,6 +1,8 @@
 #
 # Outlook E-mail IMAP
 DOMAIN,imap-mail.outlook.com
+DOMAIN,pop-mail.outlook.com
+DOMAIN,smtp-mail.outlook.com
 # CN Domain
 DOMAIN-SUFFIX,gwdz.com
 # Company Domain
