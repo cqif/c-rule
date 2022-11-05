@@ -17,3 +17,10 @@ DOMAIN,catfishemby.club
 DOMAIN-SUFFIX,yingyuan.gq
 DST-PORT,8096
 SRC-PORT,8096
+# 普拉斯影业 plusisbest
+DOMAIN,emby.plusmedia.site
+DOMAIN,emby-cf.plusmedia.site
+DOMAIN,emby.xeton.dev
+DOMAIN,jellyfin.xeton.dev
+DOMAIN,movie.xeton.dev
+DOMAIN,servers.xeton.dev
