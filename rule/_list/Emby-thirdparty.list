@@ -1,9 +1,9 @@
 #DOMAIN-KEYWORD,emby
 #DOMAIN,danmaku.movie.kg
 #DOMAIN,bgm.movie.kg
+#DOMAIN,lain.bgm.tv
+#DOMAIN,api.bgm.tv
 DOMAIN,dynamic.longin.us
-DOMAIN,lain.bgm.tv
-DOMAIN,api.bgm.tv
 DOMAIN,movie.kg
 DOMAIN-SUFFIX,movie.kg
 DOMAIN-SUFFIX,misakaf.org
