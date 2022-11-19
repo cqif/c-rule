@@ -18,8 +18,6 @@ DOMAIN-SUFFIX,tehcneko.xyz
 DOMAIN-SUFFIX,mykeyvans.science
 #
 # Subscription conversion api direct connection
-DOMAIN,api.d1.mk
-DOMAIN,api.v1.mk
 DOMAIN,d1.mk
 DOMAIN,v1.mk
 DOMAIN-SUFFIX,17.gay
