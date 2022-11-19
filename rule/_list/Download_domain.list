@@ -10,3 +10,5 @@ DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,dl.dropboxusercontent.com
 DOMAIN-SUFFIX,dl.sourceforge.net
 DOMAIN-SUFFIX,archive.ubuntu.com
+# Google play store app update
+DOMAIN-SUFFIX,gvt1.com
