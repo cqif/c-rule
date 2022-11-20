@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,gcore.com
 DOMAIN-SUFFIX,gcorelabs.com
 DOMAIN-SUFFIX,cloudns.net
+DOMAIN,static.gcore.pro
 DOMAIN,time.is
 DOMAIN,currency.world
 # NekoX
