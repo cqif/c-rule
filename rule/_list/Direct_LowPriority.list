@@ -13,6 +13,8 @@ DOMAIN-SUFFIX,cloudns.net
 DOMAIN,static.gcore.pro
 DOMAIN,time.is
 DOMAIN,currency.world
+# Leaflet Map
+DOMAIN-SUFFIX,tile.osm.org
 # NekoX
 DOMAIN-SUFFIX,tehcneko.xyz
 # MTC's TgP
