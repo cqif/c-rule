@@ -11,12 +11,12 @@ DOMAIN-SUFFIX,poloemby.xyz
 DOMAIN-SUFFIX,jmsooo.co
 DOMAIN-SUFFIX,emby.wtf
 DOMAIN,embytv.cf
-DOMAIN,aaa.ax
+DOMAIN,misty.ltd
 DOMAIN,4545.cf
 DOMAIN,catfishemby.club
-DOMAIN,embyx.one
-DOMAIN,us.embyx.one
+DOMAIN-SUFFIX,embyx.one
 DOMAIN-SUFFIX,nijigem.by
+DOMAIN-SUFFIX,nebula-emby.com
 DOMAIN-SUFFIX,yingyuan.gq
 DST-PORT,8096
 SRC-PORT,8096
