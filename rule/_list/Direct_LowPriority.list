@@ -6,7 +6,7 @@ DOMAIN,smtp-mail.outlook.com
 # CN Domain
 DOMAIN-SUFFIX,gwdz.com
 # Company Domain
-DOMAIN-SUFFIX,cloudflare.com
+DOMAIN,dash.cloudflare.com
 DOMAIN-SUFFIX,gcore.com
 DOMAIN-SUFFIX,gcorelabs.com
 DOMAIN-SUFFIX,cloudns.net
@@ -21,24 +21,10 @@ DOMAIN-SUFFIX,tehcneko.xyz
 DOMAIN-SUFFIX,mykeyvans.science
 #
 # Subscription conversion api direct connection
-DOMAIN,d1.mk
-DOMAIN,v1.mk
 DOMAIN-SUFFIX,17.gay
 DOMAIN-SUFFIX,getin.gq
 #
 # Proxy Bypass
-DOMAIN-SUFFIX,locyan.com
-DOMAIN,transfer.ipcf.tk
-DOMAIN,unofficial.5566556.xyz
-DOMAIN,cdn.bootloader.cf
-DOMAIN,origin.ipcf.tk
-DOMAIN,official.5566556.xyz
-DOMAIN,cf.cnmqq.tk
-DOMAIN,cloudflare.quest
-DOMAIN,cfhk.oppo.quest
-DOMAIN-SUFFIX,cloudflare.quest
-DOMAIN-SUFFIX,oppo.quest
-#
 DOMAIN-SUFFIX,godseven.xyz
 DOMAIN-SUFFIX,shenseven.xyz
 DOMAIN-SUFFIX,i809.ml
