@@ -1,3 +1,5 @@
 DOMAIN,api.bilibili.com
 DOMAIN,search.bilibili.com
 DOMAIN-SUFFIX,bilibili.tv
+DOMAIN,p.bstarstatic.com
+DOMAIN,pic.bstarstatic.com
