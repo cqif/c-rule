@@ -1,3 +1,4 @@
+#https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/BilibiliHMT.list
 # Bilibili 哔哩哔哩 港澳台/东南亚
 DOMAIN,p-bstarstatic.akamaized.net
 DOMAIN,p.bstarstatic.com

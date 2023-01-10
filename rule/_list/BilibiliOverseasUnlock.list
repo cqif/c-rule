@@ -1,5 +1,11 @@
+DOMAIN,www.bilibili.com
+DOMAIN,m.bilibili.com
 DOMAIN,api.bilibili.com
+DOMAIN,api.vc.bilibili.com
 DOMAIN,search.bilibili.com
+DOMAIN,s.search.bilibili.com
+DOMAIN,bangumi.bilibili.com
 DOMAIN-SUFFIX,bilibili.tv
 DOMAIN,p.bstarstatic.com
 DOMAIN,pic.bstarstatic.com
+DOMAIN,upos-bstar1-mirrorakam.akamaized.net
