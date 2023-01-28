@@ -1,0 +1,7 @@
+#东南亚全网页解锁
+DOMAIN-SUFFIX,bilibili.tv
+#东南亚流媒体资源解锁
+DOMAIN,upos-bstar1-mirrorakam.akamaized.net
+#东南亚静态资源加速
+#DOMAIN,p.bstarstatic.com
+#DOMAIN,pic.bstarstatic.com
