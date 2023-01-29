@@ -17,9 +17,10 @@ DOMAIN,catfishemby.club
 DOMAIN-SUFFIX,embyx.one
 DOMAIN-SUFFIX,nijigem.by
 DOMAIN-SUFFIX,nebula-emby.com
+DOMAIN-SUFFIX,embyplus.org
 DOMAIN-SUFFIX,yingyuan.gq
-DST-PORT,8096
-SRC-PORT,8096
+#DST-PORT,8096
+#SRC-PORT,8096
 # 普拉斯影业 plusisbest
 DOMAIN,emby.plusmedia.site
 DOMAIN,emby-cf.plusmedia.site
@@ -29,7 +30,6 @@ DOMAIN,movie.xeton.dev
 DOMAIN,servers.xeton.dev
 # 网络收集
 DOMAIN-KEYWORD,odysseyplus
-DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,plusmedia.site
 DOMAIN-SUFFIX,mickeycloud.com
 DOMAIN-SUFFIX,mcwy.me
@@ -37,27 +37,14 @@ DOMAIN-SUFFIX,neko.edu.rs
 DOMAIN-SUFFIX,ok.edu.hk
 DOMAIN-SUFFIX,maying.club
 DOMAIN-SUFFIX,nexitally.com
-DOMAIN-SUFFIX,emby.wtf
-DOMAIN-SUFFIX,emby.wtf 
-DOMAIN-SUFFIX,emby.wtf
-DOMAIN-SUFFIX,xeton.dev
-DOMAIN-SUFFIX,plusmedia.site
-DOMAIN-SUFFIX,plusmedia.site
-DOMAIN-SUFFIX,xeton.dev
-DOMAIN-SUFFIX,xeton.dev
 DOMAIN-SUFFIX,xeton.dev
 DOMAIN-SUFFIX,cjpc.cc
 DOMAIN-SUFFIX,cristiamo.xyz
 DOMAIN-SUFFIX,riches.cloud
 DOMAIN-SUFFIX,misakaf.xyz
-DOMAIN-SUFFIX,misakaf.xyz
 DOMAIN-SUFFIX,milkcat.net
 DOMAIN-SUFFIX,maoxiong.cloud
-DOMAIN-SUFFIX,maoxiong.cloud
-DOMAIN-SUFFIX,poloemby.xyz
-DOMAIN-SUFFIX,poloemby.xyz
 DOMAIN-SUFFIX,77is.top
-DOMAIN-SUFFIX,gcx920110.com
 DOMAIN-SUFFIX,gcx920110.com
 DOMAIN-SUFFIX,charontv.com
 DOMAIN-SUFFIX,immtel.com
@@ -72,12 +59,6 @@ DOMAIN-SUFFIX,prprcloud.com
 DOMAIN-SUFFIX,nyancat.net
 DOMAIN-SUFFIX,plusmedia.site 
 DOMAIN-SUFFIX,neko.edu.rs 
-DOMAIN-SUFFIX,jmsooo.com
-DOMAIN-SUFFIX,jmsooo.com
-DOMAIN-SUFFIX,jmsooo.com
-DOMAIN-SUFFIX,jmsooo.com
-DOMAIN-SUFFIX,pornemby.club
-DOMAIN-SUFFIX,pornemby.club
 DOMAIN-SUFFIX,pornemby.club
 DOMAIN-SUFFIX,cristiamo.top
 DOMAIN-SUFFIX,crislee.cn
