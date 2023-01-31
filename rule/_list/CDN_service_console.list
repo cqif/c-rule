@@ -1,0 +1,10 @@
+# CDN Service Console
+DOMAIN-SUFFIX,dash.cloudflare.com
+DOMAIN,gates.cloudflare.com
+DOMAIN,sparrow.cloudflare.com
+DOMAIN-SUFFIX,cloudflareworkers.com
+DOMAIN-SUFFIX,gcore.com
+DOMAIN-SUFFIX,gcorelabs.com
+DOMAIN-SUFFIX,p.gc.onl
+DOMAIN-SUFFIX,cloudns.net
+DOMAIN,static.gcore.pro
