@@ -1,5 +1,8 @@
 # CN Domain
 DOMAIN-SUFFIX,gwdz.com
+# ChatGPT
+DOMAIN,chat.openai.com
+#DOMAIN,o33249.ingest.sentry.io
 # NekoX
 DOMAIN-SUFFIX,tehcneko.xyz
 # MTC's TgP
