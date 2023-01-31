@@ -1,29 +1,9 @@
-#
-# Outlook E-mail IMAP
-DOMAIN,imap-mail.outlook.com
-DOMAIN,pop-mail.outlook.com
-DOMAIN,smtp-mail.outlook.com
 # CN Domain
 DOMAIN-SUFFIX,gwdz.com
-# Company Domain
-#DOMAIN,dash.cloudflare.com
-#DOMAIN-SUFFIX,gcore.com
-#DOMAIN-SUFFIX,gcorelabs.com
-#DOMAIN-SUFFIX,cloudns.net
-#DOMAIN,static.gcore.pro
-DOMAIN,time.is
-DOMAIN,currency.world
-# Leaflet Map
-DOMAIN-SUFFIX,tile.osm.org
 # NekoX
 DOMAIN-SUFFIX,tehcneko.xyz
 # MTC's TgP
 DOMAIN-SUFFIX,mykeyvans.science
-#
-# Subscription conversion api direct connection
-DOMAIN-SUFFIX,17.gay
-DOMAIN-SUFFIX,getin.gq
-#
 # Proxy Bypass
 DOMAIN-SUFFIX,godseven.xyz
 DOMAIN-SUFFIX,shenseven.xyz
