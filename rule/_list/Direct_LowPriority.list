@@ -1,5 +1,6 @@
-# CN Domain
-DOMAIN-SUFFIX,gwdz.com
+# msft ncsi connect
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com
 # ChatGPT
 DOMAIN,chat.openai.com
 #DOMAIN,o33249.ingest.sentry.io
