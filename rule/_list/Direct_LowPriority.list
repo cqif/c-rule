@@ -1,9 +1,6 @@
 # msft ncsi connect
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
-# ChatGPT
-DOMAIN,chat.openai.com
-#DOMAIN,o33249.ingest.sentry.io
 # NekoX
 DOMAIN-SUFFIX,tehcneko.xyz
 # MTC's TgP
