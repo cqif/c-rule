@@ -1,17 +1,21 @@
 # msft ncsi connect
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
+# Subscription conversion API
+DOMAIN-SUFFIX,17.gay
+DOMAIN-SUFFIX,getin.gq
+DOMAIN-SUFFIX,chinacache.gq
 # NekoX
 DOMAIN-SUFFIX,tehcneko.xyz
 # MTC's TgP
 DOMAIN-SUFFIX,mykeyvans.science
 # Proxy Bypass
-DOMAIN-SUFFIX,godseven.xyz
-DOMAIN-SUFFIX,shenseven.xyz
-DOMAIN-SUFFIX,i809.ml
-DOMAIN-SUFFIX,s7.gay
-DOMAIN-SUFFIX,cfzf.xyz
-DOMAIN-SUFFIX,isi.gay
-DOMAIN-SUFFIX,gitvpn.eu.org
-DOMAIN-SUFFIX,vpnpools.eu.org
-DOMAIN-SUFFIX,freev2r.xyz
+#DOMAIN-SUFFIX,godseven.xyz
+#DOMAIN-SUFFIX,shenseven.xyz
+#DOMAIN-SUFFIX,i809.ml
+#DOMAIN-SUFFIX,s7.gay
+#DOMAIN-SUFFIX,cfzf.xyz
+#DOMAIN-SUFFIX,isi.gay
+#DOMAIN-SUFFIX,gitvpn.eu.org
+#DOMAIN-SUFFIX,vpnpools.eu.org
+#DOMAIN-SUFFIX,freev2r.xyz
