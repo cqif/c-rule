@@ -66,5 +66,5 @@ DOMAIN-SUFFIX,neko.edu.rs
 DOMAIN-SUFFIX,pornemby.club
 DOMAIN-SUFFIX,cristiamo.top
 DOMAIN-SUFFIX,crislee.cn
-IP-CIDR,161.97.148.156/24,no-resolve
-IP-CIDR,94.130.71.39/24,no-resolve
+DOMAIN,161.97.148.156
+DOMAIN,94.130.71.39
