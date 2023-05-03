@@ -6,5 +6,7 @@ PROCESS-NAME,aria2c.exe
 PROCESS-NAME,fdm.exe
 PROCESS-NAME,qbittorrent.exe
 PROCESS-NAME,uTorrent.exe
+PROCESS-NAME,BitComet.exe
+PROCESS-NAME,BitComet_x64.exe
 URL-REGEX,(.+.)?(torrent|announce.php?passkey=|tracker|BitTorrent|bt_key|ed2k|find_node|get_peers|info_hash|magnet:|peer_id=|xunlei)(..+)?
 URL-REGEX,(.?)(xunlei|sandai|Thunder|XLLiveUD)(.)
