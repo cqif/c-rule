@@ -2,6 +2,7 @@
 DOMAIN-SUFFIX,dash.cloudflare.com
 DOMAIN,gates.cloudflare.com
 DOMAIN,sparrow.cloudflare.com
+DOMAIN,cloudflare.dev
 DOMAIN-SUFFIX,cloudflareworkers.com
 DOMAIN-SUFFIX,gcore.com
 DOMAIN-SUFFIX,gcorelabs.com
