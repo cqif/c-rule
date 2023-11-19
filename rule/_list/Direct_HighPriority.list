@@ -27,11 +27,15 @@ DOMAIN,101.199.113.208
 DOMAIN,180.163.249.75
 DOMAIN,112.65.69.15
 DOMAIN,101.6.6.6
+DOMAIN,sm2.doh.pub
 DOMAIN,dns.rubyfish.cn
+DOMAIN,doh.18bit.cn
 DOMAIN,cn-east.iqiqzz.com
 DOMAIN,cn-south.iqiqzz.com
 DOMAIN,pdns.itxe.net
 DOMAIN,doh.apad.pro
+DOMAIN,doh.ipv4dns.com
+DOMAIN,doh.quickso.cn
 # Outlook E-mail IMAP
 DOMAIN,imap-mail.outlook.com
 DOMAIN,pop-mail.outlook.com
