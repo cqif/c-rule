@@ -1,0 +1,6 @@
+DOMAIN-SUFFIX,openai.com
+DOMAIN,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,sentry.com
+#DOMAIN,cdn.openai.com
+#DOMAIN,chat.openai.com
+#DOMAIN,auth0.openai.com

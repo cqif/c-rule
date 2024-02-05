@@ -1,0 +1,15 @@
+# The specified download domain name
+DOMAIN-SUFFIX,workers.dev
+DOMAIN,objects.githubusercontent.com
+DOMAIN,camo.githubusercontent.com
+DOMAIN,codeload.github.com
+DOMAIN,mediafiles.forgecdn.net
+DOMAIN,mega.nz
+DOMAIN,softwareupdate.vmware.com
+DOMAIN-SUFFIX,dl.dropboxusercontent.com
+DOMAIN-SUFFIX,dl.sourceforge.net
+DOMAIN-SUFFIX,archive.ubuntu.com
+# Google Drive Download
+DOMAIN-SUFFIX,googleusercontent.com
+# Google play store app update
+DOMAIN-SUFFIX,gvt1.com
