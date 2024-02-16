@@ -4,4 +4,4 @@ DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,bingviz.microsoftapp.net
 DOMAIN-SUFFIX,bingapis.com
-DOMAIN,location.microsoft.com
+#DOMAIN,location.microsoft.com
