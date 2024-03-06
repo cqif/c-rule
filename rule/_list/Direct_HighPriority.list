@@ -41,4 +41,5 @@ DOMAIN,imap-mail.outlook.com
 DOMAIN,pop-mail.outlook.com
 DOMAIN,smtp-mail.outlook.com
 DOMAIN,snt404-m.hotmail.com
+DOMAIN,eas.outlook.com
 PROCESS-NAME,mailmaster.exe
