@@ -1,8 +1,0 @@
-# msft ncsi connect
-DOMAIN-SUFFIX,msftconnecttest.com
-DOMAIN-SUFFIX,msftncsi.com
-# Subscription conversion API
-DOMAIN-SUFFIX,getin.gq
-DOMAIN-SUFFIX,chinacache.gq
-DOMAIN-SUFFIX,pixelcraft.cn
-# Proxy Bypass
